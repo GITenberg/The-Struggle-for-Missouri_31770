@@ -1,0 +1,29 @@
+_repo: The-Struggle-for-Missouri_31770
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McElroy, John
+    birthdate: 1846
+    deathdate: 1929
+    gutenberg_agent_id: '1015'
+    url: http://www.gutenberg.org/2009/agents/1015
+description: This text covers the entire history of Missouri in the Civil War, including
+  events leading up to the war, famous battles, and chapters about famous decisions
+  that were made over the course of the war.
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2010-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31770'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'Missouri -- History -- Civil War, 1861-1865'
+title: The Struggle for Missouri
+url: http://www.gutenberg.org/ebooks/31770
