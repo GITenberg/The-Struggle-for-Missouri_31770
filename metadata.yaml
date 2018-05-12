@@ -13,6 +13,8 @@ creator:
 description: This text covers the entire history of Missouri in the Civil War, including
   events leading up to the war, famous battles, and chapters about famous decisions
   that were made over the course of the war.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31770#The-Struggle-for-Missouri
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2010-03-25'
 gutenberg_type: Text
